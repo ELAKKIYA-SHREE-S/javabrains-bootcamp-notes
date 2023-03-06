@@ -1,0 +1,5 @@
+CDN contains only static content.
+HTTP request is a message sent by a client to a server to request specific information.
+By design , the server doesn't remember the previous request.
+Git    - a version control system for tracking changes in files and coordinating work among multiple people.
+Github - a web-based platform that provides hosting for git repositories.
